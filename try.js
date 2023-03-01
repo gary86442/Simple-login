@@ -1,3 +1,6 @@
-let userEmail = "tony@stark.com";
-let email = "tony@stark.com";
-console.log(userEmail === email);
+const res = {};
+if (Object.keys(res).length) {
+  console.log(Object.keys(res));
+  // console.log(res.keys);
+  console.log(true);
+}

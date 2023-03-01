@@ -22,6 +22,15 @@
         name="userPassword"
       />
     </div>
+    <div class="mb-3 form-check">
+      <input
+        type="checkbox"
+        class="form-check-input border border-dark"
+        id="keepLoginCheck"
+        name="keepLoginCheck"
+      />
+      <label class="form-check-label" for="keepLoginCheck">Keep Logged in</label>
+    </div>
     {{#if incorrect}}
       <div class="alert alert-danger">
         <span>email or password is incorrect</span>
