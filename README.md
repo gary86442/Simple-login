@@ -42,7 +42,9 @@ listening on http://localhost:3000
 
 現在，你可開啟任一瀏覽器瀏覽器輸入 [http://localhost:3000](http://localhost:3000) 開始使用。
 
-6.
+6. 測試帳號：
+   Email : tony@stark.com
+   Password : iamironman
 
 ## 使用套件及工具
 
